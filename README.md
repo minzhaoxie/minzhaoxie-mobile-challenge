@@ -1,12 +1,12 @@
 # minzhaoxie-mobile-challenge
 
-In this project development, RxJava + Retrofit is used to retrieve data. By using this technique, the data fetching process is clear and straightward by using “sendRequest” and “response” functions. In Activity or Fragment, simply by using “sendRequest”, data is fetched and is handled inside “response”.  
+In this project, RxJava + Retrofit is used to retrieve data. By using this technique, the data fetching process is clear and straightward by using “sendRequest” and “response” functions. In Activity or Fragment, simply by using “sendRequest”, data is fetched and is handled inside “response”.  
 
 Moreover, dynamic view was used instead of XML files to strengthen the flexibility, reusability and an easier maintainance of the project. 
 
 # Build instructions (Android Studio)
 
-1. Clone mobile-challenge repository from GitHub and create a local copy on your computer.
+1. Clone minzhaoxie-mobile-challenge repository from GitHub and create a local copy on your computer.
 
 2. Open the project in IDE:
 
